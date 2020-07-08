@@ -1,4 +1,4 @@
 # MiniTasks
 bla-bla-bla
 
-https://proglib.io/p/project-list
+[url=https://proglib.io/p/project-list]Tasks[/url]
